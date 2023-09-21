@@ -21,6 +21,10 @@ $ asdf install
 $ npm install
 ```
 
+### VSCode extension
+
+L'extension [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) permet d'intégrer l'exécution des tests dans VSCode.
+
 ## Running tests
 ### Once
 ```sh
