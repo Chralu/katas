@@ -9,7 +9,7 @@
 
 ### Install tools
 Requirements : 
- - Node 18
+ - Node  >=16 <=20
 
 Install using [asdf](https://asdf-vm.com/) : 
 ```sh
