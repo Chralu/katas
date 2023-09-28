@@ -13,6 +13,7 @@ Requirements :
 
 Install using [asdf](https://asdf-vm.com/) : 
 ```sh
+$ asdf plugin add nodejs
 $ asdf install
 ```
 
